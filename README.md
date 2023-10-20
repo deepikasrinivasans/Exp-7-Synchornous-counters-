@@ -79,7 +79,7 @@ RegisterNumber: 212222230028
 ```
 ### UPCOUNTER:
 ```
-module exp6(A,clk);
+module upcounter(A,clk);
 output reg [3:0]A;
 input clk;
 always@(posedge clk)
