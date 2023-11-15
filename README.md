@@ -1,6 +1,6 @@
 ## NAME : DEEPIKA S
 ## REGISTER NUMBER : 212222230028
-# Exp 6: Synchornous counters up counter and down counter 
+# Ex 06: Synchornous counters up counter and down counter 
 ## Date: 20.10.2023
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
@@ -124,6 +124,10 @@ endmodule
 ### Downcounter Truthtable:
 ![downstate](https://github.com/deepikasrinivasans/Exp-7-Synchornous-counters-/assets/119393935/89c724be-17f1-4290-9771-3bbe3998be07)
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
