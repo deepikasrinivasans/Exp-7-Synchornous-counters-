@@ -123,5 +123,15 @@ endmodule
 ![upstate](https://github.com/deepikasrinivasans/Exp-7-Synchornous-counters-/assets/119393935/6bc209e3-5832-40e5-9d04-44574415a0ec)
 ### Downcounter Truthtable:
 ![downstate](https://github.com/deepikasrinivasans/Exp-7-Synchornous-counters-/assets/119393935/89c724be-17f1-4290-9771-3bbe3998be07)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ### RESULTS 
 Thus, The Synchornous counters of up counter and down counter circuit are studied and the truth table for different logic gates are Successfully verified.
